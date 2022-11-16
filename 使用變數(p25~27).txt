@@ -1,0 +1,22 @@
+package lab1_hw;
+
+public class hw01 
+{
+	public static void main(String[]args)
+	{
+		//使用變數p25 & 26 更新變數
+		int num=3;
+		System.out.println("輸出num的變數為"+num);
+		num=5;		
+		System.out.println("num變數更新為"+num);
+		System.out.println("");
+		
+		//複製變數num1到num2(p27)
+		int num1=3,num2;
+		System.out.println("num1的變數為"+num1);
+		num2=num1;
+		System.out.println("將num1的變數複製到num2");
+		System.out.println("變數num2的值為:"+num2);
+		
+	}
+}

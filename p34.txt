@@ -1,0 +1,25 @@
+package lab1_hw;
+
+public class hw01 
+{
+	public static void main(String[]args) 
+	{
+		int num1 = 10,num2 = 5;
+		
+		System.out.println("跑计num1+num2单"+(num1+num2));
+		System.out.println("跑计num1-num2单"+(num1-num2));
+		System.out.println("跑计num1*num2单"+(num1*num2));
+		System.out.println("跑计num1/num2单"+(num1/num2));
+		System.out.println("跑计num1%num2单"+(num1%num2));
+		
+		int a=0,b=0,c=0;
+		
+		b=a++;
+		c=++a;
+		
+		System.out.println("﹚患糤┮b"+b);
+		System.out.println("患糤﹚┮c"+c);
+		
+		
+	}
+}

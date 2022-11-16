@@ -1,0 +1,15 @@
+package lab1_hw;
+
+public class hw01 
+{
+	public static void main(String[]args)
+	{
+		//跳脫字元
+		System.out.println("顯示出反斜線:\\");
+		System.out.println("顯示出單引號:\'");
+		System.out.println("");
+		//八進位和十六進位輸入方法
+		System.out.println("八進位的111為:\111");
+		System.out.println("十六進位的0042為:\u0042");
+	}
+}

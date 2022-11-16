@@ -1,0 +1,16 @@
+package lab1_hw;
+
+public class hw01 
+{
+	public static void main(String[]args)
+	{
+		System.out.println("以下兩個未換行:");
+		System.out.print("歡迎使用java!!");
+		System.out.print("開始使用java了");
+		System.out.println("");
+		
+		System.out.println("以下兩個有換行:");
+		System.out.println("歡迎使用java!!");
+		System.out.print("開始使用java了");
+	}
+}

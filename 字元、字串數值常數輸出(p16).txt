@@ -1,0 +1,12 @@
+package lab1_hw;
+
+public class hw01 
+{
+	public static void main(String[]args)
+	{
+		//字元、字串數值常數輸出
+		System.out.println('B');
+		System.out.println("你好java!");
+		System.out.println(123);
+	}
+}
